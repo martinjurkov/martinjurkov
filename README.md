@@ -8,7 +8,7 @@ In the future I would like to learn tools like TypeScript, GraphQL, Firebase and
 
 <p>💞️ I’m looking to collaborate on </p>
 
-<p>📫 How to reach me ...</p>
+<p>📫 How to reach me: jurkov.martin@gmail.com</p>
 
 <!---
 martinjurkov/martinjurkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
