@@ -6,7 +6,7 @@
 <p>🌱 I’m currently learning more advanced React tools like Redux, Next.js, hooks like Reducers, etc.
 In the future I would like to learn tools like TypeScript, GraphQL, Firebase and after that MERN Stack (MongoDB, Express.js, React.js and Node.js)</p>
 
-<p>💞️ I’m looking to collaborate on </p>
+<p>💞️ I’m looking to collaborate on web development projects.</p>
 
 <p>📫 How to reach me: jurkov.martin@gmail.com</p>
 
